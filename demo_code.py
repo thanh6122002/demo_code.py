@@ -1,6 +1,6 @@
 
 '''
-Viết phần lõi (core) trong 1 lớp riêng "MyBigNumber", method String sum(String stn1, String stn2) để cài đặt thuật toán cộng 2 số giống như các học sinh Tiểu học
+Viết phần lõi (core) trong 1 lớp riêng "MyBigNumber", method String sum(String stn1, String stn2) để cài đặt cộng 2 số giống như các học sinh Tiểu học
 thực hiện như sau:
 Duyệt đồng thời chuỗi stn1, stn2 từ phải sang trái, lấy ra từng kí tự (character), chuyển thành kí số (digit).
 Cộng từng kí số.
